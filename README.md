@@ -128,8 +128,8 @@ I am interested in software development, application security, ethical hacking, 
 ## 📫 Contact
 
 - **GitHub:** https://github.com/620511
-- **LinkedIn:** Add your LinkedIn profile URL
-- **Email:** Add your professional email
+- **LinkedIn:** https://www.linkedin.com/in/francisco-george-silva
+- **Email:** georgesilvanilva@gmail.com
 
 ---
 
